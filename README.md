@@ -4,6 +4,8 @@ All source code and images are associated with the paper:
 
 "Automatic Prediction of Peak Optical Absorption Wavelengths in Molecules using Convolutional Neural Networks" 
 
+[J. Chem. Inf. Model (2024)](https://doi.org/10.1021/acs.jcim.3c01792)
+
 By S. G. Jung, G. J & J. M. Cole
 
 
@@ -70,6 +72,9 @@ Figure 4: Multi-Fidelity Prediction of the Optical Peaks (Scaffold Split)
 
 ## Acknowledgements
 J.M.C. conceived the overarching project. The study was designed by S.G.J. and J.M.C. S.G.J. created the workflow, designed the CNN architecture, performed data pre-processing, featurization, hyperparameter optimization, and analysed the data under the supervision of J.M.C. G.J. assisted with the design of the CNN architecture and contributed to the hyperparameter optimization. S.G.J. drafted the manuscript with the assistance from J.M.C. The final manuscript was read and approved by all authors.
+
+J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which is partly sponsored by the Science and Technology Facilities Council (STFC) via the ISIS Neutron and Muon Source; this Chair also supports a PhD studentship (for S.G.J.). STFC is also thanked for a PhD studentship that is sponsored by its Scientific Computing Department (for G.J.).
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Research_group-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.mole.phy.cam.ac.uk/)
